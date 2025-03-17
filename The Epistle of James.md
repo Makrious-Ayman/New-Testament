@@ -1,26 +1,3 @@
-# The Epistle of James
-
-The Epistle of James (often called the Letter of James) is a book in the New Testament, traditionally attributed to James, the brother of Jesus. It is one of the general or Catholic epistles and emphasizes practical Christian living, with a focus on faith, works, wisdom, and enduring trials.
-
-## Key Details about the Epistle of James
-
-### 1. Author
-The letter is believed to be written by James, the brother of Jesus. James was a leader in the early Christian church in Jerusalem and is often referred to as James the Just.
-
-### 2. Purpose
-The purpose of the epistle is to provide practical advice to Christians on how to live out their faith. It emphasizes that faith should be demonstrated through actions, and it encourages believers to be steadfast in their faith during trials and to practice godly living in everyday life.
-
-### 3. Key Themes
-- Endurance in Trials James teaches that trials and difficulties should be met with joy because they lead to spiritual growth and perseverance (James 12-4).
-- Faith and Works James stresses that faith without works is dead, and that true faith is demonstrated by good deeds (James 214-26).
-- Control of the Tongue He talks about the power of the tongue and the need for believers to control their speech, as the tongue can both bless and curse (James 31-12).
-- Wisdom Wisdom from God is pure, peace-loving, considerate, submissive, full of mercy, and impartial (James 317).
-- Humility and Submission to God James calls Christians to humble themselves before God, resist the devil, and draw near to God (James 47-10).
-
-### 4. Structure
-The Epistle of James has five chapters and is relatively short compared to other New Testament letters. The letter is written in a very practical, instruction-based style, giving advice to early Christian communities.
-
-
 # رسالة يعقوب
 
 **رسالة يعقوب** (وتُسمى أيضًا **رسالة يعقوب** في بعض الترجمات) هي كتاب في العهد الجديد، يُنسب تقليديًا إلى **يعقوب**، أخو يسوع. وهي واحدة من الرسائل الكاثوليكية أو العامة وتؤكد على الحياة المسيحية العملية، مع التركيز على الإيمان، والأعمال، والحكمة، والصبر في مواجهة التجارب.
@@ -110,5 +87,96 @@ The Epistle of James has five chapters and is relatively short compared to other
 10 اتَّضِعُوا قُدَّامَ الرَّبِّ فَيَرْفَعَكُمْ.
 
 11 لاَ يَذُمَّ بَعْضُكُمْ بَعْضًا أَيُّهَا الإِخْوَةُ. الَّذِي يَذُمُّ أَخَاهُ وَيَدِينُ أَخَاهُ يَذُمُّ النَّامُوسَ وَيَدِينُ النَّامُوسَ. وَإِنْ كُنْتَ تَدِينُ النَّامُوسَ، فَلَسْتَ عَامِلاً بِالنَّامُوسِ، بَلْ دَيَّانًا لَهُ.
+
+---
+
+# The Epistle of James
+
+The Epistle of James (often called the Letter of James) is a book in the New Testament, traditionally attributed to James, the brother of Jesus. It is one of the general or Catholic epistles and emphasizes practical Christian living, with a focus on faith, works, wisdom, and enduring trials.
+
+## Key Details about the Epistle of James
+
+### 1. Author
+The letter is believed to be written by James, the brother of Jesus. James was a leader in the early Christian church in Jerusalem and is often referred to as James the Just.
+
+### 2. Purpose
+The purpose of the epistle is to provide practical advice to Christians on how to live out their faith. It emphasizes that faith should be demonstrated through actions, and it encourages believers to be steadfast in their faith during trials and to practice godly living in everyday life.
+
+### 3. Key Themes
+- Endurance in Trials James teaches that trials and difficulties should be met with joy because they lead to spiritual growth and perseverance (James 12-4).
+- Faith and Works James stresses that faith without works is dead, and that true faith is demonstrated by good deeds (James 214-26).
+- Control of the Tongue He talks about the power of the tongue and the need for believers to control their speech, as the tongue can both bless and curse (James 31-12).
+- Wisdom Wisdom from God is pure, peace-loving, considerate, submissive, full of mercy, and impartial (James 317).
+- Humility and Submission to God James calls Christians to humble themselves before God, resist the devil, and draw near to God (James 47-10).
+
+### 4. Structure
+The Epistle of James has five chapters and is relatively short compared to other New Testament letters. The letter is written in a very practical, instruction-based style, giving advice to early Christian communities.
+
+### 5. Some Important Verses
+
+# Chapter 1
+
+2 Consider it pure joy, my brothers, whenever you face trials of many kinds,  
+3 because you know that the testing of your faith produces perseverance.  
+
+4 Let perseverance finish its work so that you may be mature and complete, not lacking anything.  
+12 Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the "crown of life" that God has promised to those who love him.  
+
+5 If any of you lacks wisdom, let him ask of God, who gives generously to all without finding fault, and it will be given to him.  
+
+12 Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the "crown of life" that God has promised to those who love him.  
+
+13 When tempted, no one should say, "God is tempting me." For God cannot be tempted by evil, nor does he tempt anyone.  
+
+15 Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death.  
+
+17 Every good gift and every perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.  
+
+21 Therefore, get rid of all moral filth and the evil that is so prevalent, and humbly accept the word planted in you, which can save you.  
+
+27 Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world.
+
+---
+
+# Chapter 2
+
+5 Listen, my dear brothers and sisters: Has not God chosen those who are poor in the eyes of the world to be rich in faith and to inherit the kingdom he promised those who love him?  
+
+12 Speak and act as those who are going to be judged by the law that gives freedom.  
+13 Because judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment.  
+
+17 In the same way, faith by itself, if it is not accompanied by action, is dead.  
+
+18 But someone will say, "You have faith; I have deeds." Show me your faith without deeds, and I will show you my faith by my deeds.
+
+---
+
+# Chapter 3
+
+1 Not many of you should become teachers, my fellow believers, because you know that we who teach will be judged more strictly.  
+
+6 The tongue also is a fire, a world of evil among the parts of the body. It corrupts the whole body, sets the whole course of one's life on fire, and is itself set on fire by hell.  
+
+8 But no human being can tame the tongue. It is a restless evil, full of deadly poison.  
+
+14 But if you harbor bitter envy and selfish ambition in your hearts, do not boast about it or deny the truth.  
+
+17 But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere.  
+
+18 Peacemakers who sow in peace reap a harvest of righteousness.
+
+---
+
+# Chapter 4
+
+1 What causes fights and quarrels among you? Don't they come from your desires that battle within you?  
+
+6 But he gives us more grace. That is why Scripture says: "God opposes the proud but shows favor to the humble."  
+
+8 Come near to God and he will come near to you. Wash your hands, you sinners, and purify your hearts, you double-minded.  
+
+10 Humble yourselves before the Lord, and he will lift you up.  
+
+11 Brothers and sisters, do not slander one another. Anyone who speaks against a brother or sister or judges them speaks against the law and judges it. When you judge the law, you are not keeping it, but sitting in judgment on it.
 
 ---
